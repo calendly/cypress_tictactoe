@@ -5,6 +5,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: "https://roomy-fire-houseboat.glitch.me/"
+    baseUrl: "https://calendly.github.io/cypress_tictactoe/"
   },
 });
